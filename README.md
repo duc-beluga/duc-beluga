@@ -42,4 +42,5 @@ Java           ██░░░░░░░░░░░░░░░░░░░�
 - 🎮 Games: Rust, League, Catan
 - 🎢 Hobbies: Camping
 
+
 [![Duc's GitHub stats](https://github-readme-stats.vercel.app/api?username=duc-beluga)](https://github.com/anuraghazra/github-readme-stats)
