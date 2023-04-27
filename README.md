@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/bg-image.png?raw=true)
 
 whoami - a curious person who loves to explore, learn, and build stuff. I enjoy coding and I have picked up a lot of random skills and tools along the way. 
 Feel free to reach out.  
@@ -29,10 +29,10 @@ Feel free to reach out.
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 ```text
-Javascript     ████████                    32.00 %
+Python         ████████                    32.00 %
 MongoDB        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 SQL            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Python         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Javascript     ██████░░░░░░░░░░░░░░░░░░░   24.00 %
 Solidity       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 Java           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
