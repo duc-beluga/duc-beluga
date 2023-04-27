@@ -1,4 +1,4 @@
-![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/bg-image.png?raw=true)
+
 
 whoami - a curious person who loves to explore, learn, and build stuff. I enjoy coding and I have picked up a lot of random skills and tools along the way. 
 Feel free to reach out.  
