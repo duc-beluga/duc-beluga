@@ -42,4 +42,4 @@ Java           ██░░░░░░░░░░░░░░░░░░░�
 - 🎮 Games: Rust, League, Catan
 - 🎢 Hobbies: Camping
 
-<img src = "https://github-readme-stats.vercel.app/api?username=duc-beluga&show_icons=true&theme=tokyonight&line_height=27">
+
