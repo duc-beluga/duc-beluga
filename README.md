@@ -1,10 +1,11 @@
 ![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/bg-image.png?raw=true)
 
+![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/Certificate.png)
 whoami - a curious person who loves to explore, learn, and build stuff. I enjoy coding and I have picked up a lot of random skills and tools along the way. 
 Feel free to reach out.  
 <br />
 <a href="https://www.linkedin.com/in/ducng416/">
-  <img align="left" alt="DucNguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="DucNguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/noahh____416/">
   <img align="left" alt="DucNguyen's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -30,13 +31,12 @@ Feel free to reach out.
 
 ```text
 Python         ████████                    32.00 %
-MongoDB        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-SQL            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Javascript     ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Solidity       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+MongoDB        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+SQL            ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Javascript     ███████░░░░░░░░░░░░░░░░░░   28.00 %
 Java           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
-- 🌱 I’m currently learning ***AWS Solution Architect - Associate***
+- 🌱 I’m currently mastering ***APIs***
 - 📫 How to reach me: [email](mailto:dnguyensde@gmail.com)
 - ⚡ Fun fact: I'm a foosball champion at my school
 - 🎮 Games: Rust, League, Catan
