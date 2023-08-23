@@ -1,8 +1,7 @@
 ![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/bg-image.png?raw=true)
 
 ![alt text](https://github.com/duc-beluga/duc-beluga/blob/main/Certificate.png)
-whoami - a curious person who loves to explore, learn, and build stuff. I enjoy coding and I have picked up a lot of random skills and tools along the way. 
-Feel free to reach out.  
+  
 <br />
 <a href="https://www.linkedin.com/in/ducng416/">
   <img align="left" alt="DucNguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
