@@ -10,6 +10,7 @@
   <img align="left" alt="DucNguyen's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>    
 <br />
+
 **languages and tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
@@ -40,5 +41,6 @@ Java           ██░░░░░░░░░░░░░░░░░░░�
 - ⚡ Fun fact: I'm a foosball champion at my school
 - 🎮 Games: Rust, League, Catan
 - 🎢 Hobbies: Camping
+- 👨‍🎨 [Portfolio](https://dukng.com/)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=duc-beluga&show_icons=true&theme=tokyonight&line_height=27">
