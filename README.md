@@ -35,7 +35,7 @@ SQL            ████░░░░░░░░░░░░░░░░░�
 Javascript     ███████░░░░░░░░░░░░░░░░░░   28.00 %
 Java           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
-- 🌱 I’m currently mastering ***APIs***
+- 🌱 I’m currently mastering ***APIs and Firebase***
 - 📫 How to reach me: [email](mailto:dnguyensde@gmail.com)
 - ⚡ Fun fact: I'm a foosball champion at my school
 - 🎮 Games: Rust, League, Catan
