@@ -30,14 +30,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 ```text
-Python         ████████                    32.00 %
-MongoDB        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-SQL            ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Javascript     ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Java           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Python         █████████                   36.00 %
+SQL            █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Javascript     ████████░░░░░░░░░░░░░░░░░   32.00 %
+Java           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 ```
-- 🌱 I’m currently mastering ***APIs and Firebase***
-- 📫 How to reach me: [email](mailto:dnguyensde@gmail.com)
+- 🌱 I’m currently mastering ***Firebase, WebSocket, GraphQL and Redux***
+- 📫 How to reach me: [email](mailto:dnguyen416@gatech.edu)
 - ⚡ Fun fact: I'm a foosball champion at my school
 - 🎮 Games: Rust, League, Catan
 - 🎢 Hobbies: Camping
