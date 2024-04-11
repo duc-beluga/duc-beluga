@@ -30,10 +30,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 ```text
-Python         █████████                   36.00 %
-SQL            █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Javascript     ████████░░░░░░░░░░░░░░░░░   32.00 %
-Java           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Python                    ████    24.00 %
+SQL                       ███     18.00 %
+JavaAcript/TypeScript     ██████  36.00 %
+C#                        ████    22.00 %
 ```
 - 🌱 I’m currently mastering ***Firebase, WebSocket, GraphQL and Redux***
 - 📫 How to reach me: [email](mailto:dnguyen416@gatech.edu)
